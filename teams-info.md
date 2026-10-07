@@ -2,7 +2,7 @@
 
 ## Team 1: Modulo Alumnos
 1. Eric Uriel Rojas Torres
-
+2. Alejandro Corral Zarza
 
 
 
@@ -21,12 +21,12 @@
 
 ## Team 4: Modulo Asignaturas/Materias
 1. Alan Uribe Hernández
-2. Yael Morales Medina
+
 
 
 
 ## Team 5: Calendario de exámenes
-1. Melany Joana Toledo Escamilla
+
 
 
 4. Samuel Riveroll Vargas
