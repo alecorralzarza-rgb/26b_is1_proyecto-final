@@ -2,8 +2,7 @@
 
 ## Team 1: Modulo Alumnos
 1. Eric Uriel Rojas Torres
-
-
+2. Alejandro Corral Zarza 
 
 
 
