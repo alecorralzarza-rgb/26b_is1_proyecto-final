@@ -9,7 +9,9 @@
 ## Requerimientos funcionales 
 ## Actores
 ## Diagrama de casos de uso
+
 {codigo fuente uml}
+
 {imagen visible}
 
 ## Glosario y Abreviaturas
