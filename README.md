@@ -6,6 +6,10 @@
 
 # II. Contexto del proyecto
 
+{TODO diagrama de contexto del proyecto png}
+
+{TODO diagrama de contexto codigo fuente uml - una referencia}
+
 ## Problemas que se prenden resolver
 
 ## Oportunidades que buscan aprovechar
