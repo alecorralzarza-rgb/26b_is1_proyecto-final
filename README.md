@@ -1,20 +1,22 @@
 # Proyecto Final
 
-# Introducción
+# Tabla de contenido
 
-# Contexto del proyecto
+# I. Introducción
+
+# II. Contexto del proyecto
 
 ## Problemas que se prenden resolver
 
 ## Oportunidades que buscan aprovechar
 
-# Alcance del proyecto
+# III. Alcance del proyecto
 
 ## Limites del proyecto
 
 ## Exclusiones
 
-# Requerimientos
+# IV. Requerimientos
 
 ## Requerimientos funcionales (RF)
 
